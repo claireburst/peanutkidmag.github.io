@@ -40,6 +40,8 @@ h2{
 p {
     color: #313254;
     line-height: 1.25;
+    width: 100%;
+    text-align: center;
 }
 footer {
 background-color: #FFFFFF;
