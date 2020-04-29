@@ -29,6 +29,7 @@ li a {
   }
 div {
     padding: 25px 50px 25px 50px;
+    height:100vh;
   }
 h1 {
     color: #313254;
